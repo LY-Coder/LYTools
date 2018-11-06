@@ -15,6 +15,7 @@
 		2690C498219172E1002E4DAA /* LYCaptchaButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2690C497219172E1002E4DAA /* LYCaptchaButton.swift */; };
 		2690C49A21918BDE002E4DAA /* CaptchaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2690C49921918BDE002E4DAA /* CaptchaViewController.swift */; };
 		2690C49C21919423002E4DAA /* PrintLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2690C49B21919423002E4DAA /* PrintLog.swift */; };
+		2690C49E219199F9002E4DAA /* LYCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2690C49D219199F9002E4DAA /* LYCache.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2690C497219172E1002E4DAA /* LYCaptchaButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LYCaptchaButton.swift; sourceTree = "<group>"; };
 		2690C49921918BDE002E4DAA /* CaptchaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptchaViewController.swift; sourceTree = "<group>"; };
 		2690C49B21919423002E4DAA /* PrintLog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintLog.swift; sourceTree = "<group>"; };
+		2690C49D219199F9002E4DAA /* LYCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LYCache.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				2690C49921918BDE002E4DAA /* CaptchaViewController.swift */,
 				2690C497219172E1002E4DAA /* LYCaptchaButton.swift */,
 				2690C49B21919423002E4DAA /* PrintLog.swift */,
+				2690C49D219199F9002E4DAA /* LYCache.swift */,
 				2690C48921917008002E4DAA /* Main.storyboard */,
 				2690C48C21917009002E4DAA /* Assets.xcassets */,
 				2690C48E21917009002E4DAA /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 				2690C48821917008002E4DAA /* ViewController.swift in Sources */,
 				2690C48621917008002E4DAA /* AppDelegate.swift in Sources */,
 				2690C49C21919423002E4DAA /* PrintLog.swift in Sources */,
+				2690C49E219199F9002E4DAA /* LYCache.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
